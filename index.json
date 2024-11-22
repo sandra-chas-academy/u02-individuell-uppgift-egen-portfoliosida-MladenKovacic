@@ -1,0 +1,65 @@
+{
+    "aboutMe": [
+        {
+            "cv":   "Redan från tidig ålder så har jag varit intresserad av programmering och efter att ha arbetat med fysiskt arbete i över 15 år så har jag nu valt att skola om mig till Fullstackutvecklare. Jag vill arbeta med JavaScript för att jag gillar känslan av att skapa något och efter att ha gått kursen Programmering 1 så känner jag att denna utbildning är rätt för mig. Jag kan se mig själv arbeta med detta livet ut eftersom branschen utvecklas hela tiden och då har jag chansen att utvecklas med."
+          
+
+        }
+    ],
+    "firstjob": [
+        {
+            "job": "Servicetekniker",
+            "workplace": "Envac",
+            "location": "Stockholm",
+            "time": "Dec 2019 - 2024 ",
+            "ocupation": "Full Time"
+
+        }
+    ],
+    "secondjob": [
+        {
+            "job": "Miljöhandläggare",
+            "workplace": "Svanen",
+            "location": "Stockholm",
+            "time": "Aug 2017 - 2019 ",
+            "ocupation": "Full Time"
+        }
+    ],
+    "thirdjob": [
+        {
+            "job": "Snickare",
+            "workplace": "Snickarverket",
+            "location": "Stockholm",
+            "time": "Dec 2013 - 2015",
+            "ocupation": "Full Time"
+        }
+    ],
+    "firsteduacation": [
+        {
+            "education": "Fullstack Utvecklare",
+            "typeeducation": "Chas Academy",
+            "location": "Stockholm",
+            "time": "Aug 2024 --- ",
+            "ocupation": "Full time"
+
+        }
+    ],
+    "secondeducation": [
+        {
+            "education": "Bygglovshandläggare",
+            "typeeducation": "Värmdö Yrkeshögskola",
+            "location": "Värmdö",
+            "time": "Aug 2015 - 2017",
+            "ocupation": "Full time"
+        }
+    ],
+    "thirdeduacation": [
+        {
+           "education": "Byggprogrammet",
+            "typeeducation": "Hantverkare",
+            "location": "Nacka",
+            "time": "Aug 2003 - Aug 2006",
+            "ocupation": "Full time"
+        }
+    ]
+}   
